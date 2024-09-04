@@ -10,8 +10,8 @@ import java.util.List;
 
 public class Test {
     public static void main(String[] args) {
-        //loadContainersTest1();
-        loadContainersTest2();
+        loadContainersTest1();
+        //loadContainersTest2();
     }
 
     public static void loadContainersTest1() {
